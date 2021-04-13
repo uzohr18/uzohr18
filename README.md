@@ -1,3 +1,3 @@
-# Hey, can you see this?
+# Hi there 👋
 
 This is a sample project
